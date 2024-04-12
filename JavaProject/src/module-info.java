@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author MCSS
- *
- */
-module JavaProject {
-}
